@@ -403,7 +403,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **Effective Test Generation Using Pre-trained Large Language Models and Mutation Testing** (2023), arxiv, Dakhel, A. M., et al. [[pdf]](https://arxiv.org/pdf/2308.16557)
 - **Automatic Unit Test Generation for Deep Learning Frameworks based on API Knowledge** (2023), arxiv, Narayanan, A., et al. [[pdf]](https://arxiv.org/pdf/2307.00404)
 - **Black-Box Prediction of Flaky Test Fix Categories Using Language Models** (2023), arxiv, Fatima, S., et al. [[pdf]](https://arxiv.org/pdf/2307.00012)
-- **Large Language Models Are Zero-Shot Fuzzers: Fuzzing Deep-Learning Libraries via Large Language Models** (2023), ISSTA'23, Deng, Yinlin, et al. [[pdf]](https://arxiv.org/abs/2212.14834)
+- **Large Language Models Are Zero-Shot Fuzzers: Fuzzing Deep-Learning Libraries via Large Language Models** (2023), ISSTA'23, Deng, Yinlin, et al. [[pdf]](https://arxiv.org/abs/2212.14834)[[code]](https://github.com/ise-uiuc/TitanFuzz)
 - **Understanding Large Language Model Based Fuzz Driver Generation** (2023), arxiv, Zhang, Cen, et al. [[pdf]](https://arxiv.org/pdf/2307.12469)
 - **Universal Fuzzing via Large Language Models** (2023), arxiv, Xia, Chunqiu Steven, et al. [[pdf]](https://arxiv.org/pdf/2308.04748)
 - **SAGA: Summarization-Guided Assert Statement Generation** (2023), arxiv, Zhang, Yuwei, et al. [[pdf]](https://arxiv.org/pdf/2305.14808)
