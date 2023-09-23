@@ -271,15 +271,15 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Bug/Vulnerability Detection
 
-- **Pre-training Code Representation with Semantic Flow Graph for Effective Bug Localization** (2023), arxiv, Du, Y., & Yu, Z. [[pdf]](https://arxiv.org/pdf/2308.12773)
+- **Pre-training Code Representation with Semantic Flow Graph for Effective Bug Localization** (2023), arxiv, Du, Y., & Yu, Z. [[pdf]](https://arxiv.org/pdf/2308.12773)[[code]](https://github.com/duyali2000/SemanticFlowGraph)
 - **PrAIoritize: Learning to Prioritize Smart Contract Bugs and Vulnerabilities** (2023), arxiv, Soud, Majd, et al. [[pdf]](https://arxiv.org/pdf/2308.11082)
 - **Transformer-based Vulnerability Detection in Code at EditTime: Zero-shot, Few-shot, or Fine-tuning?** (2023), arxiv, Chan, Aaron, et al. [[pdf]](https://arxiv.org/pdf/2306.01754)
 - **LIVABLE: Exploring Long-Tailed Classification of Software Vulnerability Types** (2023), arxiv, Wen, Xin-Cheng, et al. [[pdf]](https://arxiv.org/pdf/2306.06935)
 - **Learning to Quantize Vulnerability Patterns and Match to Locate Statement-Level Vulnerabilities** (2023), arxiv, Fu, Michael, et al. [[pdf]](https://arxiv.org/pdf/2306.06109)
 - **CPVD: Cross Project Vulnerability Detection Based on Graph Attention Network and Domain Adaptation** (2023), TSE, Zhang, Chunyong, et al. 
 - **FLAG: Finding Line Anomalies (in code) with Generative AI** (2023), arxiv, Ahmad, Baleegh, et al. [[pdf]](https://arxiv.org/pdf/2306.12643)
-- **A Novel Approach to Identify Security Controls in Source Code** (2023), arxiv, Okutan, Ahmet, et al. [[pdf]](https://arxiv.org/pdf/2307.05605)
-- **Limits of Machine Learning for Automatic Vulnerability Detection** (2023), arxiv, Risse, N., & Böhme, M. [[pdf]](https://arxiv.org/pdf/2306.17193)
+- **A Novel Approach to Identify Security Controls in Source Code** (2023), arxiv, Okutan, Ahmet, et al. [[pdf]](https://arxiv.org/pdf/2307.05605)[[code]](https://github.com/SoftwareDesignLab/security_tactics)
+- **Limits of Machine Learning for Automatic Vulnerability Detection** (2023), arxiv, Risse, N., & Böhme, M. [[pdf]](https://arxiv.org/pdf/2306.17193)[[code]](https://github.com/niklasrisse/LimitsOfML4Vuln)
 - **Detecting Condition-Related Bugs with Control Flow Graph Neural Network** (2023), ISTTA'23, Zhang, Jian, et al.
 - **A New Era in Software Security: Towards Self-Healing Software via Large Language Models and Formal Verification** (2023), arxiv, Charalambous, Yiannis, et al. [[pdf]](https://arxiv.org/pdf/2305.14752)
 - **An Unbiased Transformer Source Code Learning with Semantic Vulnerability Graph** (2023), arxiv, Islam, Nafis Tanveer, et al. [[pdf]](https://arxiv.org/pdf/2304.11072)
@@ -290,9 +290,10 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **Fixing Hardware Security Bugs with Large Language Models** (2023), arxiv, Ahmad, Baleegh, et al. [[pdf]](https://arxiv.org/pdf/2302.01215)
 - **VulEye: A Novel Graph Neural Network Vulnerability Detection Approach for PHP Application** (2023), Applied Sciences journal, Lin, Chun, et al. [[pdf]](https://www.mdpi.com/2076-3417/13/2/825/pdf)
 - **VDGraph2Vec: Vulnerability Detection in Assembly Code using Message Passing Neural Networks** (2022), ICMLA'22, Diwan, Ashita, et al. [[pdf]](https://dmas.lab.mcgill.ca/fung/pub/DLF22icmla.pdf)
-- **VulChecker: Graph-based Vulnerability Localization in Source Code** (2022), Usenix, Mirsky, Yisroel, et al. [[pdf]](https://www.usenix.org/system/files/sec23summer_449-mirsky-prepub.pdf)
+- **VulChecker: Graph-based Vulnerability Localization in Source Code** (2022), Usenix, Mirsky, Yisroel, et al. [[pdf]](https://www.usenix.org/system/files/sec23summer_449-mirsky-prepub.pdf)[[code]](https://github.com/ymirsky/VulChecker)
 - **DeepVulSeeker: A Novel Vulnerability Identification Framework via Code Graph Structure and Pre-training Mechanism** (2022), arxiv, Wang, Jin, et al. [[pdf]](https://arxiv.org/pdf/2211.13097)
 - **Compact Abstract Graphs for Detecting Code Vulnerability with GNN Models** (2022), ACSAC'22, Luo, Yu, et al.
+- **ReGVD: Revisiting Graph Neural Networks for Vulnerability Detection** (2022), arxiv 2022, Van-Anh Nguyen, et al. [[pdf]](https://arxiv.org/pdf/2110.07317)[[code]](https://github.com/daiquocnguyen/GNN-ReGVD)
 - **An Empirical Study of Deep Learning Models for Vulnerability Detection** (2022), arxiv, Steenhoek, Benjamin, et al. [[pdf]](https://arxiv.org/pdf/2212.08109)
 - **Variable-Based Fault Localization via Enhanced Decision Tree** (2022), arxiv, Jiang, Jiajun, et al. [[pdf]](https://arxiv.org/pdf/2211.11526)
 - **SPVF: security property assisted vulnerability fixing via attention-based models** (2022), EMSE, Zhou, Zhou, et al. 
@@ -310,6 +311,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **Deep Learning based Software Defect Prediction** (2020), Neurocomputing, Qiao, Lei, et al.
 - **Software Vulnerability Discovery via Learning Multi-domain Knowledge Bases** (2019), IEEE TDSC, Lin, Guanjun, et al.
 - **Neural Bug Finding: A Study of Opportunities and Challenges** (2019), arxiv 2019, Habib, Andrew, et al. [[pdf]](https://arxiv.org/pdf/1906.00307)
+- **Improving Bug Detection via Context-based Code Representation Learning and Attention-based Neural Networks** (2019), acm 2019, Yi Li, et al. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3360588)[[code]](https://github.com/OOPSLA-2019-BugDetection/OOPSLA-2019-BugDetection)
 - **Automated Vulnerability Detection in Source Code Using Deep Representation Learning** (2018), ICMLA 2018, Russell, Rebecca, et al.
 - **DeepBugs: A Learning Approach to Name-based Bug Detection** (2018), ACM PL 2018, Pradel, Michael, et al. [[pdf]](http://software-lab.org/publications/DeepBugs_arXiv_1805.11683.pdf)
 - **Automatically Learning Semantic Features for Defect Prediction** (2016), ICSE 2016, Wang, Song, et al.
