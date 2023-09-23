@@ -224,6 +224,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **UniXcoder: Unified Cross-Modal Pre-training for Code Representation** (2022), arxiv 2022, Guo, Daya, et al. [[pdf]](https://arxiv.org/pdf/2203.03850)
 - **SPT-Code: Sequence-to-Sequence Pre-Training for Learning Source Code Representations** (2022), ICSE'22, Niu, Changan, et al. [[pdf]](https://arxiv.org/pdf/2201.01549.pdf)
 - **GraphCode2Vec: Generic Code Embedding via Lexical and Program Dependence Analyses** (2022), MSR'22, Ma, Wei, et al.
+- **Integrating Tree Path in Transformer for Code Representation** (2021), NeurIPS2021, Han Peng, et al. [[pdf]](https://papers.nips.cc/paper/2021/file/4e0223a87610176ef0d24ef6d2dcde3a-Paper.pdf)[[code]](https://github.com/AwdHanPeng/TPTrans)
 - **OSCAR: How could Neural Networks understand Programs?** (2021), ICML'21, Peng, Dinglan, et al. [[pdf]](http://proceedings.mlr.press/v139/peng21b/peng21b.pdf)
 - **PROGRAML: A Graph-based Program Representation for Data Flow Analysis and Compiler Optimizations** (2021), ICML'21, Cummins, Chris, et al. [[pdf]](http://proceedings.mlr.press/v139/cummins21a/cummins21a.pdf)
 - **CoTexT: Multi-task Learning with Code-Text Transformer** (2021), arxiv, Phan, Long, et al. [[pdf]](https://arxiv.org/pdf/2105.08645)
