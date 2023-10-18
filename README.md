@@ -78,7 +78,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **LongCoder: A Long-Range Pre-trained Language Model for Code Completion** (2023), ICML'23, Guo, Daya, et al. [[pdf]](https://arxiv.org/pdf/2306.14893)
 - **R-U-SURE? Uncertainty-Aware Code Suggestions By Maximizing Utility Across Random User Intents** (2023), arxiv, Johnson, Daniel D, et al. [[pdf]](https://arxiv.org/pdf/2303.00732) 
 - **Optimized Tokenization Process for Open-Vocabulary Code Completion: An Empirical Study** (2023), EASE'23, Hussain, Yasir, et al.
-- **Enriching Source Code with Contextual Data for Code Completion Models: An Empirical Study** (2023), MSR'23, van Dam, Tim, et al. [[pdf]](https://arxiv.org/pdf/2304.12269)
+- **Enriching Source Code with Contextual Data for Code Completion Models: An Empirical Study** (2023), MSR'23, van Dam, Tim, et al. [[pdf]](https://arxiv.org/pdf/2304.12269)[[code]](https://github.com/aise-tudelft/contextualdatacodecompletion)
 - **RepoCoder: Repository-Level Code Completion Through Iterative Retrieval and Generation** (2023), arxiv, Zhang, Fengji, et al. [[pdf]](https://arxiv.org/pdf/2303.12570)
 - **COCOMIC: ✿✿✿✿ Code ✿✿✿✿ Completion By Jointly Modeling In-file and ✿✿Cross-file Context** (2022), Ding, Yangruibo, et al. [[pdf]](https://arxiv.org/pdf/2212.10007)
 - **Boosting source code suggestion with self-supervised Transformer Gated Highway** (2022), JSS, Hussain, Yasir, et al.
@@ -164,7 +164,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **Statement-based Memory for Neural Source Code Summarization** (2023), arxiv, Bansal, Aakash, et al. [[pdf]](https://arxiv.org/pdf/2307.11709)
 - **Tram: A Token-level Retrieval-augmented Mechanism for Source Code Summarization** (2023), arxiv, Ye, Tong, et al. [[pdf]](https://arxiv.org/pdf/2305.11074)
 - **Automatic Code Summarization via ChatGPT: How Far Are We?** (2023), arxiv, Sun, Weisong, et al. 
-- **Function Call Graph Context Encoding for Neural Source Code Summarization** (2023), TSE, Bansal, Aakash, et al.
+- **Function Call Graph Context Encoding for Neural Source Code Summarization** (2023), TSE, Bansal, Aakash, et al. [[code]](https://github.com/aakashba/callcon-public)
 - **Label Smoothing Improves Neural Source Code Summarization** (2023), arxiv, Haque, Sakib, et al. [[pdf]](https://arxiv.org/pdf/2303.16178)
 - **Demystifying What Code Summarization Models Learned** (2023), arxiv, Wang, Yu, and Ke Wang. [[pdf]](https://arxiv.org/pdf/2303.02333)
 - **CoSS: Leveraging Statement Semantics for Code Summarization** (2023), TSE, Shi, Chaochen, et al.
@@ -229,10 +229,10 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **PROGRAML: A Graph-based Program Representation for Data Flow Analysis and Compiler Optimizations** (2021), ICML'21, Cummins, Chris, et al. [[pdf]](http://proceedings.mlr.press/v139/cummins21a/cummins21a.pdf)
 - **CoTexT: Multi-task Learning with Code-Text Transformer** (2021), arxiv, Phan, Long, et al. [[pdf]](https://arxiv.org/pdf/2105.08645)
 - **TreeCaps: Tree-Based Capsule Networks for Source Code Processing** (2021), AAAI'21, Bui, Nghi DQ, et al. [[pdf]](https://www.aaai.org/AAAI21Papers/AAAI-9746.BuiNDQ.pdf) [[code]](https://github.com/bdqnghi/treecaps)
-- **Language-Agnostic Representation Learning of Source Code from Structure and Context** (2021), ICLR'21, Zügner, Daniel, et al. [[pdf]](https://arxiv.org/pdf/2103.11318)
+- **Language-Agnostic Representation Learning of Source Code from Structure and Context** (2021), ICLR'21, Zügner, Daniel, et al. [[pdf]](https://arxiv.org/pdf/2103.11318)[[code]](https://github.com/danielzuegner/code-transformer)
 - **IR2Vec: LLVM IR Based Scalable Program Embeddings** (2020), TACO journal, VenkataKeerthy, S., et al. 
 - **Compiler-Based Graph Representations for Deep Learning Models of Code** (2020), CC'20, Brauckmann, Alexander, et al.
-- **Learning and Evaluating Contextual Embedding of Source Code** (2020), ICML 2020, Kanade, Aditya, et al. [[pdf]](http://proceedings.mlr.press/v119/kanade20a/kanade20a.pdf)
+- **Learning and Evaluating Contextual Embedding of Source Code** (2020), ICML 2020, Kanade, Aditya, et al. [[pdf]](http://proceedings.mlr.press/v119/kanade20a/kanade20a.pdf)[[code]](https://github.com/mhagglun/google-research-cuBERT)
 - **Learning Semantic Program Embeddings with Graph Interval Neural Network** (2020), OOPSLA'20, Wang, Yu, et al.
 - **Contrastive Code Representation Learning** (2020), arxiv 2020, Jain, Paras, et al. [[pdf]](https://arxiv.org/pdf/2007.04973.pdf)
 - **SCELMo: Source Code Embeddings from Language Models** (2020), arxiv 2020, Karampatsis, Rafael-Michael, et al. [[pdf]](https://arxiv.org/pdf/2004.13214)
@@ -248,7 +248,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **Learning to Represent Patches** (2023), ICSE'24, Tang, Xunzhu, et al. [[pdf]](https://arxiv.org/pdf/2308.16586)
 - **Automated Code Editing with Search-Generate-Modify** (2023), arxiv, Liu, Changshu, et al. [[pdf]](https://arxiv.org/pdf/2306.06490)
 - **Multilingual Code Co-Evolution Using Large Language Models** (2023), arxiv, Zhang, Jiyang, et al. [[pdf]](https://arxiv.org/pdf/2307.14991)
-- **Coeditor: Leveraging Contextual Changes for Multi-round Code Auto-editing** (2023), arxiv, Wei, Jiayi, et al. [[pdf]](https://arxiv.org/pdf/2305.18584)
+- **Coeditor: Leveraging Contextual Changes for Multi-round Code Auto-editing** (2023), arxiv, Wei, Jiayi, et al. [[pdf]](https://arxiv.org/pdf/2305.18584)[[code]](https://github.com/MrVPlusOne/Coeditor)
 - **CCT5: A Code-Change-Oriented Pre-Trained Model** (2023), arxiv, Lin, Bo, et al. [[pdf]](https://arxiv.org/pdf/2305.10785)
 - **GrACE: Generation using Associated Code Edits** (2023), arxiv, Gupta, Priyanshu, et al. [[pdf]](https://arxiv.org/pdf/2305.14129)
 - **Slice-Based Code Change Representation Learning** (2023), arxiv, Zhang, Fengyi, et al. [[pdf]](https://chenbihuan.github.io/paper/saner23-zhang-ccs2vec.pdf)
@@ -262,7 +262,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 ## Code Comments
 
 - **CupCleaner: A Data Cleaning Approach for Comment Updating** (2023), arxiv, Liang, Qingyuan, et al. [[pdf]](https://arxiv.org/pdf/2308.06898)
-- **Large Language Models are Few-Shot Summarizers: Multi-Intent Comment Generation via In-Context Learning** (2023), ICSE'24, Geng, Mingyang, et al. [[pdf]](https://www.researchgate.net/profile/Shangwen-Wang/publication/370228019_Large_Language_Models_are_Few-Shot_Summarizers_Multi-Intent_Comment_Generation_via_In-Context_Learning/links/648aeb559605ba270e45bf26/Large-Language-Models-are-Few-Shot-Summarizers-Multi-Intent-Comment-Generation-via-In-Context-Learning.pdf)
+- **Large Language Models are Few-Shot Summarizers: Multi-Intent Comment Generation via In-Context Learning** (2023), ICSE'24, Geng, Mingyang, et al. [[pdf]](https://www.researchgate.net/profile/Shangwen-Wang/publication/370228019_Large_Language_Models_are_Few-Shot_Summarizers_Multi-Intent_Comment_Generation_via_In-Context_Learning/links/648aeb559605ba270e45bf26/Large-Language-Models-are-Few-Shot-Summarizers-Multi-Intent-Comment-Generation-via-In-Context-Learning.pdf)[[code]](https://github.com/gmy2013/llm_comment_generation)
 - **Snippet Comment Generation Based on Code Context Expansion** (2023), arxiv, GUO, HANYANG, et al.
 - **An Empirical Study on Using Large Language Models for Multi-Intent Comment Generation** (2023), arxiv, Geng, Mingyang, et al. [[pdf]](https://arxiv.org/pdf/2304.11384)
 - **An Intra-Class Relation Guided Approach for Code Comment Generation** (2023), EACL'23, Wang, Zhenni, et al. [[pdf]](https://aclanthology.org/2023.findings-eacl.97.pdf)
@@ -303,7 +303,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **Machine Learning for Source Code Vulnerability Detection: What Works and What Isn't There Yet** (2022), IEEE Security & Privacy, Marjanov, Tina, et al.
 - **Path-sensitive code embedding via contrastive learning for software vulnerability detection** (2022), ISSTA'22, Cheng, Xiao, et al.
 - **VulBERTa: Simplified Source Code Pre-Training for Vulnerability Detection** (2022), arxiv 2022, Hanif, H. and Maffeis, S. [[pdf]](https://arxiv.org/pdf/2205.12424)
-- **Katana: Dual Slicing-Based Context for Learning Bug Fixes** (2022), arxiv 2022, Sintaha, Mifta, et al. [[pdf]](https://arxiv.org/pdf/2205.00180)
+- **Katana: Dual Slicing-Based Context for Learning Bug Fixes** (2022), arxiv 2022, Sintaha, Mifta, et al. [[pdf]](https://arxiv.org/pdf/2205.00180)[[code]](https://github.com/saltlab/katana)
 - **LineVul: A Transformer-based Line-Level Vulnerability Prediction** (2022), MSR'22, Fu, M., & Tantithamthavorn, C. [[pdf]](https://www.researchgate.net/profile/Chakkrit-Tantithamthavorn/publication/359402890_LineVul_A_Transformer-based_Line-Level_Vulnerability_Prediction/links/623ee3d48068956f3c4cbede/LineVul-A-Transformer-based-Line-Level-Vulnerability-Prediction.pdf)[[code]](https://github.com/awsm-research/LineVul)
 - **Transformer-Based Language Models for Software Vulnerability Detection: Performance, Model's Security and Platforms** (2022), arxiv 2022, Thapa, Chandra, et al. [[pdf]](https://arxiv.org/pdf/2204.03214.pdf)
 - **LineVD: Statement-level Vulnerability Detection using Graph Neural Networks** (2022), MSR'22, Hin, David, et al. [[pdf]](https://arxiv.org/pdf/2203.05181)
