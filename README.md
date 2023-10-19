@@ -163,7 +163,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **Distilled GPT for Source Code Summarization** (2023), arxiv, Su, C. Y., & McMillan, C. [[pdf]](https://arxiv.org/pdf/2308.14731)
 - **An data augmentation method for source code summarization** (2023), Journal of Neurocomputing, Song, Zixuan, et al.
 - **Multilingual Adapter-based Knowledge Aggregation on Code Summarization for Low-Resource Languages** (2023), arxiv, Saberi, Iman et al. [[pdf]](https://arxiv.org/pdf/2307.07854)
-- **Statement-based Memory for Neural Source Code Summarization** (2023), arxiv, Bansal, Aakash, et al. [[pdf]](https://arxiv.org/pdf/2307.11709)
+- **Statement-based Memory for Neural Source Code Summarization** (2023), arxiv, Bansal, Aakash, et al. [[pdf]](https://arxiv.org/pdf/2307.11709)[[code]](https://github.com/aakashba/smncode2022)
 - **Tram: A Token-level Retrieval-augmented Mechanism for Source Code Summarization** (2023), arxiv, Ye, Tong, et al. [[pdf]](https://arxiv.org/pdf/2305.11074)
 - **Automatic Code Summarization via ChatGPT: How Far Are We?** (2023), arxiv, Sun, Weisong, et al. 
 - **Function Call Graph Context Encoding for Neural Source Code Summarization** (2023), TSE, Bansal, Aakash, et al. [[code]](https://github.com/aakashba/callcon-public)
