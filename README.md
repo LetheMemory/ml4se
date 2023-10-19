@@ -70,6 +70,8 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Code Completion
 
+- **CrossCodeEval: A Diverse and Multilingual Benchmark for Cross-File Code Completion** (2023), arxiv, Ding., et al. [[pdf]](https://arxiv.org/pdf/2310.11248.pdf)[[dataset]](https://github.com/amazon-science/cceval)
+- **COCOMIC: Code Completion By Jointly Modeling In-file and Cross-file Context** (2023), arxiv, Ding., et al. [[pdf]](https://arxiv.org/pdf/2212.10007.pdf)
 - **Domain Adaptive Code Completion via Language Models and Decoupled Domain Databases** (2023), arxiv, Tang, Ze, et al. [[pdf]](https://arxiv.org/pdf/2308.09313)
 - **RepoBench: Benchmarking Repository-Level Code Auto-Completion Systems** (2023), arxiv, Liu, T., et al. [[pdf]](https://arxiv.org/pdf/2306.03091)
 - **A Static Evaluation of Code Completion by Large Language Models** (2023), arxiv, Ding, Hantian, et al. [[pdf]](https://arxiv.org/pdf/2306.03203)
@@ -182,7 +184,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **AST-Trans: Code Summarization with Efficient Tree-Structured Attention** (2022), ICSE'22, Tang, Ze, et al. [[pdf]](http://lichuanyi.info/files/papers/2022-Ze%20Tang-AST-Trans%20ICSE2022.pdf)
 - **GypSum: Learning Hybrid Representations for Code Summarization** (2022), ICPC'22, Wang, Yu, et al. [[pdf]](https://arxiv.org/pdf/2204.12916)
 - **M2TS: Multi-Scale Multi-Modal Approach Based on Transformer for Source Code Summarization** (2022), ICPC'22, Gao, Yuexiu and Lyu, Chen [[pdf]](https://arxiv.org/pdf/2203.09707)
-- **Project-Level Encoding for Neural Source Code Summarization of Subroutines** (2021), ICPC'21, Bansal, Aakash, et al. [[pdf]](https://arxiv.org/pdf/2103.11599)
+- **Project-Level Encoding for Neural Source Code Summarization of Subroutines** (2021), ICPC'21, Bansal, Aakash, et al. [[pdf]](https://arxiv.org/pdf/2103.11599)[[code]](https://github.com/aakashba/projcon)
 - **Code Structure Guided Transformer for Source Code Summarization** (2021), arxiv 2021, Gao, Shuzheng, et al. [[pdf]](https://arxiv.org/pdf/2104.09340)
 - **Source Code Summarization Using Attention-Based Keyword Memory Networks** (2020), IEEE BigComp 2020, Choi, YunSeok, et al.
 - **A Transformer-based Approach for Source Code Summarization** (2020), arxiv 2020, Ahmad, Wasi Uddin, et al. [[pdf]](https://arxiv.org/pdf/2005.00653)
