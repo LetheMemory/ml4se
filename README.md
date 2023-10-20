@@ -271,6 +271,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **APIContext2Com: Code Comment Generation by Incorporating Pre-Defined API Documentation** (2023), arxiv, Shahbazi, R., and Fard F. [[pdf]](https://arxiv.org/pdf/2303.01645)
 - **Developer-Intent Driven Code Comment Generation** (2023), arxiv, Mu, Fangwen, et al. [[pdf]](https://arxiv.org/pdf/2302.07055)
 - **ALSI-Transformer: Transformer-Based Code Comment Generation With Aligned Lexical and Syntactic Information** (2023), IEEE Access, Park, Youngmi, et al.
+- **FIRA: Fine-Grained Graph-Based Code Change Representation for Automated Commit Message Generation** (2022), ICSE22, J Dong, et al. [[pdf]](https://yilinglou.github.io/papers/ICSE22_commit.pdf) [[code]](https://github.com/DJjjjhao/FIRA-ICSE)
 
 ## Bug/Vulnerability Detection
 
