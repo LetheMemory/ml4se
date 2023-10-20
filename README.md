@@ -256,6 +256,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **Slice-Based Code Change Representation Learning** (2023), arxiv, Zhang, Fengyi, et al. [[pdf]](https://chenbihuan.github.io/paper/saner23-zhang-ccs2vec.pdf)
 - **Towards Generating Functionally Correct Code Edits from Natural Language Issue Descriptions** (2023), arxiv, Fakhoury, Sarah, et al. [[pdf]](https://arxiv.org/pdf/2304.03816)
 - **CCRep: Learning Code Change Representations via Pre-Trained Code Model and Query Back** (2023), arxiv, Liu, Zhongxin, et al. [[pdf]](https://arxiv.org/pdf/2302.03924)
+- **FIRA: Fine-Grained Graph-Based Code Change Representation for Automated Commit Message Generation** (2022), ICSE22, J Dong, et al. [[pdf]](https://yilinglou.github.io/papers/ICSE22_commit.pdf) [[code]](https://github.com/DJjjjhao/FIRA-ICSE)
 - **CoditT5: Pretraining for Source Code and Natural Language Editing** (2022), ASE 2022, Jiyang, Zhang, et al. [[pdf]](https://arxiv.org/abs/2208.05446)
 - **Commit2Vec: Learning Distributed Representations of Code Changes** (2021), SN Computer Science, Lozoya, Rocío Cabrera, et al.
 - **CODIT: Code Editing with Tree-Based Neural Models** (2020), TSE 2020, Chakraborty, Saikat, et al.
@@ -271,7 +272,6 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **APIContext2Com: Code Comment Generation by Incorporating Pre-Defined API Documentation** (2023), arxiv, Shahbazi, R., and Fard F. [[pdf]](https://arxiv.org/pdf/2303.01645)
 - **Developer-Intent Driven Code Comment Generation** (2023), arxiv, Mu, Fangwen, et al. [[pdf]](https://arxiv.org/pdf/2302.07055)
 - **ALSI-Transformer: Transformer-Based Code Comment Generation With Aligned Lexical and Syntactic Information** (2023), IEEE Access, Park, Youngmi, et al.
-- **FIRA: Fine-Grained Graph-Based Code Change Representation for Automated Commit Message Generation** (2022), ICSE22, J Dong, et al. [[pdf]](https://yilinglou.github.io/papers/ICSE22_commit.pdf) [[code]](https://github.com/DJjjjhao/FIRA-ICSE)
 
 ## Bug/Vulnerability Detection
 
