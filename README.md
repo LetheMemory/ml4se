@@ -70,19 +70,18 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Code Completion
 
-- **CrossCodeEval: A Diverse and Multilingual Benchmark for Cross-File Code Completion** (2023), arxiv, Ding., et al. [[pdf]](https://arxiv.org/pdf/2310.11248.pdf)[[dataset]](https://github.com/amazon-science/cceval)
-- **COCOMIC: Code Completion By Jointly Modeling In-file and Cross-file Context** (2023), arxiv, Ding., et al. [[pdf]](https://arxiv.org/pdf/2212.10007.pdf)
+- **CrossCodeEval: A Diverse and Multilingual Benchmark for Cross-File Code Completion** (2023), arxiv, Ding., et al. [[pdf]](https://arxiv.org/pdf/2310.11248.pdf)[[dataset]](https://github.com/amazon-science/cceval)[*cross-file-context*]
 - **Domain Adaptive Code Completion via Language Models and Decoupled Domain Databases** (2023), arxiv, Tang, Ze, et al. [[pdf]](https://arxiv.org/pdf/2308.09313)
-- **RepoBench: Benchmarking Repository-Level Code Auto-Completion Systems** (2023), arxiv, Liu, T., et al. [[pdf]](https://arxiv.org/pdf/2306.03091)
+- **RepoBench: Benchmarking Repository-Level Code Auto-Completion Systems** (2023), arxiv, Liu, T., et al. [[pdf]](https://arxiv.org/pdf/2306.03091)[[code]](https://github.com/Leolty/repobench)[*corss-file-context*]
 - **A Static Evaluation of Code Completion by Large Language Models** (2023), arxiv, Ding, Hantian, et al. [[pdf]](https://arxiv.org/pdf/2306.03203)
 - **Large Language Models of Code Fail at Completing Code with Potential Bugs** (2023), arxiv, Dinh, Tuan, et al. [[pdf]](https://arxiv.org/pdf/2306.03438)
-- **RepoFusion: Training Code Models to Understand Your Repository** (2023), arxiv, Shrivastava, Disha, et al., [[pdf]](https://arxiv.org/pdf/2306.10998)
+- **RepoFusion: Training Code Models to Understand Your Repository** (2023), arxiv, Shrivastava, Disha, et al., [[pdf]](https://arxiv.org/pdf/2306.10998)[[HF]](https://huggingface.co/RepoFusion)[[dataset]](https://huggingface.co/datasets/RepoFusion/Stack-Repo)[*corss-file-context*]
 - **LongCoder: A Long-Range Pre-trained Language Model for Code Completion** (2023), ICML'23, Guo, Daya, et al. [[pdf]](https://arxiv.org/pdf/2306.14893)
 - **R-U-SURE? Uncertainty-Aware Code Suggestions By Maximizing Utility Across Random User Intents** (2023), arxiv, Johnson, Daniel D, et al. [[pdf]](https://arxiv.org/pdf/2303.00732) 
 - **Optimized Tokenization Process for Open-Vocabulary Code Completion: An Empirical Study** (2023), EASE'23, Hussain, Yasir, et al.
-- **Enriching Source Code with Contextual Data for Code Completion Models: An Empirical Study** (2023), MSR'23, van Dam, Tim, et al. [[pdf]](https://arxiv.org/pdf/2304.12269)[[code]](https://github.com/aise-tudelft/contextualdatacodecompletion)
-- **RepoCoder: Repository-Level Code Completion Through Iterative Retrieval and Generation** (2023), arxiv, Zhang, Fengji, et al. [[pdf]](https://arxiv.org/pdf/2303.12570)
-- **COCOMIC: ✿✿✿✿ Code ✿✿✿✿ Completion By Jointly Modeling In-file and ✿✿Cross-file Context** (2022), Ding, Yangruibo, et al. [[pdf]](https://arxiv.org/pdf/2212.10007)
+- **Enriching Source Code with Contextual Data for Code Completion Models: An Empirical Study** (2023), MSR'23, van Dam, Tim, et al. [[pdf]](https://arxiv.org/pdf/2304.12269)[[code]](https://github.com/aise-tudelft/contextualdatacodecompletion)[*corss-file-context*]
+- **RepoCoder: Repository-Level Code Completion Through Iterative Retrieval and Generation** (2023), arxiv, Zhang, Fengji, et al. [[pdf]](https://arxiv.org/pdf/2303.12570)[[code]](https://github.com/microsoft/CodeT)[*corss-file-context*]
+- **COCOMIC: ✿✿✿✿ Code ✿✿✿✿ Completion By Jointly Modeling In-file and ✿✿Cross-file Context** (2022), Ding, Yangruibo, et al. [[pdf]](https://arxiv.org/pdf/2212.10007)[*corss-file-context*]
 - **Boosting source code suggestion with self-supervised Transformer Gated Highway** (2022), JSS, Hussain, Yasir, et al.
 - **Syntax-Aware On-the-Fly Code Completion** (2022), arxiv, Takerngsaksiri, W., et al. [[pdf]](https://arxiv.org/pdf/2211.04673)
 - **Learning to Prevent Profitless Neural Code Completion** (2022), arxiv, Sun, Z., et al. [[pdf]](https://arxiv.org/pdf/2209.05948)
@@ -97,10 +96,10 @@ Please feel free to send a pull request to add papers and relevant content that 
 ## Code Generation
 
 - **Exploring Parameter-Efficient Fine-Tuning Techniques for Code Generation with Large Language Models** (2023), arxiv, Weyssow, Martin, et al. [[pdf]](https://arxiv.org/pdf/2308.10462)
-- **CodeGen4Libs: A Two-Stage Approach for Library-Oriented Code Generation** (2023), arxiv, Liu, Mingwei, et al. [[pdf]](https://www.researchgate.net/profile/Mingwei-Liu-4/publication/373192571_CodeGen4Libs_A_Two-Stage_Approach_for_Library-Oriented_Code_Generation/links/64ded6fbcaf5ff5cd0c39162/CodeGen4Libs-A-Two-Stage-Approach-for-Library-Oriented-Code-Generation.pdf)
+- **CodeGen4Libs: A Two-Stage Approach for Library-Oriented Code Generation** (2023), arxiv, Liu, Mingwei, et al. [[pdf]](https://www.researchgate.net/profile/Mingwei-Liu-4/publication/373192571_CodeGen4Libs_A_Two-Stage_Approach_for_Library-Oriented_Code_Generation/links/64ded6fbcaf5ff5cd0c39162/CodeGen4Libs-A-Two-Stage-Approach-for-Library-Oriented-Code-Generation.pdf)[[code]](https://github.com/FudanSELab/codegen4libs)[*corss-file-context*]
 - **Is Model Attention Aligned with Human Attention?: An Empirical Study on LLMs for Code Generation** (2023), arxiv, Kou, Bonan, et al. [[pdf]](https://arxiv.org/pdf/2306.01220)
 - **Demystifying GPT Self-Repair for Code Generation** (2023), arxiv, Olausson, Theo X., et al. [[pdf]](https://arxiv.org/pdf/2306.09896)
-- **Exploring Continual Learning for Code Generation Models** (2023), arxiv, Yadav, Prateek, et al. [[pdf]](https://arxiv.org/pdf/2307.02435)
+- **Exploring Continual Learning for Code Generation Models** (2023), arxiv, Yadav, Prateek, et al. [[pdf]](https://arxiv.org/pdf/2307.02435)[[code]](https://github.com/awslabs/codetask-cl-pptf)(*continual-learning*)
 - **CodePrompt: Task-Agnostic Prefix Tuning for Program and Language Generation** (2023), ACL'23, Choi, Y., & Lee, J. H. [[pdf]](https://aclanthology.org/2023.findings-acl.325.pdf)
 - **Aligning Offline Metrics and Human Judgments of Value for Code Generation Models** (2023), ACL'23, Dibia, Victor, et al. [[pdf]](https://aclanthology.org/2023.findings-acl.540.pdf)
 - **RLTF: Reinforcement Learning from Unit Test Feedback** (2023), arxiv, Liu, Jiate, et al. [[pdf]](https://arxiv.org/pdf/2307.04349)
@@ -121,7 +120,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **Self-collaboration Code Generation via ChatGPT** (2023), arxiv, Dong, Yihong, et al. [[pdf]](https://arxiv.org/pdf/2304.07590)
 - **Greener yet Powerful: Taming Large Code Generation Models with Quantization** (2023), arxiv, Wei, Xiaokai, et al. [[pdf]](https://arxiv.org/pdf/2303.05378.pdf)
 - **A Syntax-Guided Multi-Task Learning Approach for Turducken-Style Code Generation** (2023), arxiv, Yang, Guang, et al. [[pdf]](https://arxiv.org/pdf/2303.05061)
-- **WikiCoder: Learning to Write Knowledge-Powered Code** (2023), arxiv, Matricon, Théo, et al. [[pdf]](https://arxiv.org/pdf/2303.08574)
+- **WikiCoder: Learning to Write Knowledge-Powered Code** (2023), arxiv, Matricon, Théo, et al. [[pdf]](https://arxiv.org/pdf/2303.08574)[*external-knowledge*]
 - **Self-planning Code Generation with Large Language Model** (2023), arxiv, Jiang, Xue, et al. [[pdf]](https://arxiv.org/pdf/2303.06689)
 - **Systematically Finding Security Vulnerabilities in Black-Box Code Generation Models.** (2023), arxiv, Hajipour, Hossein, et al. [[pdf]](https://arxiv.org/pdf/2302.04012)
 - **Exploring Data Augmentation for Code Generation Tasks** (2023), arxiv, C., Pinzhen, and G. Lampouras [[pdf]](https://arxiv.org/pdf/2302.03499)
