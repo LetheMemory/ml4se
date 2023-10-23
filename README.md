@@ -154,6 +154,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **Compilable Neural Code Generation with Compiler Feedback** (2022), arxiv 2022, Wang, Xin, et al. [[pdf]](https://arxiv.org/pdf/2203.05132.pdf)
 - **Predictive Synthesis of API-Centric Code** (2022), arxiv 2022, Nam, Daye, et al. [[pdf]](https://arxiv.org/pdf/2201.03758.pdf)
 - **Code Prediction by Feeding Trees to Transformers** (2020), arxiv 2020, Kim, Seohyun, et al. [[pdf]](https://arxiv.org/pdf/2003.13848)[[code]](https://github.com/facebookresearch/code-prediction-transformer)[*code-syntax-structure*]
+- **ncorporating External Knowledge through Pre-training for Natural Language to Code Generation** (2020), arxiv 2020, Frank F. Xu, et al. [[pdf]](https://arxiv.org/pdf/2004.09015.pdf)[[code]](https://github.com/neulab/external-knowledge-codegen)[*external-knowledge*]
 - **TreeGen: A Tree-Based Transformer Architecture for Code Generation** (2019), arxiv 2019, Zhu, Qihao, et al. [[pdf]](https://arxiv.org/abs/1911.09983)[[code]](https://github.com/zysszy/TreeGen)[*code-syntax-structure*]
 - **A Parallel Corpus of Python Functions and Documentation Strings for Automated Code Documentation and Code Generation** (2017), arxiv 2017, Barone, Antonio V. M., et al. [[pdf]](https://arxiv.org/pdf/1707.02275)
 
