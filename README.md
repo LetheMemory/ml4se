@@ -278,11 +278,11 @@ Please feel free to send a pull request to add papers and relevant content that 
 ## Bug/Vulnerability Detection
 
 - **Pre-training Code Representation with Semantic Flow Graph for Effective Bug Localization** (2023), arxiv, Du, Y., & Yu, Z. [[pdf]](https://arxiv.org/pdf/2308.12773)[[code]](https://github.com/duyali2000/SemanticFlowGraph)
-- **PrAIoritize: Learning to Prioritize Smart Contract Bugs and Vulnerabilities** (2023), arxiv, Soud, Majd, et al. [[pdf]](https://arxiv.org/pdf/2308.11082)
+- **PrAIoritize: Learning to Prioritize Smart Contract Bugs and Vulnerabilities** (2023), arxiv, Soud, Majd, et al. [[pdf]](https://arxiv.org/pdf/2308.11082)[[code1]](https://zenodo.org/records/7900928)[[code2]](https://github.com/ZhangZhuoSJTU/Web3Bugs)
 - **Transformer-based Vulnerability Detection in Code at EditTime: Zero-shot, Few-shot, or Fine-tuning?** (2023), arxiv, Chan, Aaron, et al. [[pdf]](https://arxiv.org/pdf/2306.01754)
 - **LIVABLE: Exploring Long-Tailed Classification of Software Vulnerability Types** (2023), arxiv, Wen, Xin-Cheng, et al. [[pdf]](https://arxiv.org/pdf/2306.06935)
 - **Learning to Quantize Vulnerability Patterns and Match to Locate Statement-Level Vulnerabilities** (2023), arxiv, Fu, Michael, et al. [[pdf]](https://arxiv.org/pdf/2306.06109)
-- **CPVD: Cross Project Vulnerability Detection Based on Graph Attention Network and Domain Adaptation** (2023), TSE, Zhang, Chunyong, et al. 
+- **CPVD: Cross Project Vulnerability Detection Based on Graph Attention Network and Domain Adaptation** (2023), TSE, Zhang, Chunyong, et al. [[code]](https://github.com/HuantWang/FUNDED_NISL)
 - **FLAG: Finding Line Anomalies (in code) with Generative AI** (2023), arxiv, Ahmad, Baleegh, et al. [[pdf]](https://arxiv.org/pdf/2306.12643)
 - **A Novel Approach to Identify Security Controls in Source Code** (2023), arxiv, Okutan, Ahmet, et al. [[pdf]](https://arxiv.org/pdf/2307.05605)[[code]](https://github.com/SoftwareDesignLab/security_tactics)
 - **Limits of Machine Learning for Automatic Vulnerability Detection** (2023), arxiv, Risse, N., & Böhme, M. [[pdf]](https://arxiv.org/pdf/2306.17193)[[code]](https://github.com/niklasrisse/LimitsOfML4Vuln)
@@ -313,8 +313,8 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **Transformer-Based Language Models for Software Vulnerability Detection: Performance, Model's Security and Platforms** (2022), arxiv 2022, Thapa, Chandra, et al. [[pdf]](https://arxiv.org/pdf/2204.03214.pdf)
 - **LineVD: Statement-level Vulnerability Detection using Graph Neural Networks** (2022), MSR'22, Hin, David, et al. [[pdf]](https://arxiv.org/pdf/2203.05181)
 - **Nalin: Learning from Runtime Behavior to Find Name-Value Inconsistencies in Jupyter Notebooks** (2022), ICSE'22, Patra, Jibesh, et al. [[pdf]](https://arxiv.org/pdf/2112.06186.pdf)
-- **Hoppity: Learning graph transformations to detect and fix bugs in programs** (2020), ICLR 2020, Dinella, Elizabeth, et al. [[pdf]](https://openreview.net/pdf/9d37b18aba351f4294aa84e69ea330d1fa51c471.pdf)
-- **Deep Learning based Software Defect Prediction** (2020), Neurocomputing, Qiao, Lei, et al.
+- **Hoppity: Learning graph transformations to detect and fix bugs in programs** (2020), ICLR 2020, Dinella, Elizabeth, et al. [[pdf]](https://openreview.net/pdf/9d37b18aba351f4294aa84e69ea330d1fa51c471.pdf)[[code]](https://github.com/AI-nstein/hoppity)
+- **Deep Learning based Software Defect Prediction** (2020), Neurocomputing, Qiao, Lei, et al.[[code]](https://github.com/sonalisrijan/Deep-Learning-based-Defect-Prediction-Model-for-Source-Code)
 - **Software Vulnerability Discovery via Learning Multi-domain Knowledge Bases** (2019), IEEE TDSC, Lin, Guanjun, et al.
 - **Neural Bug Finding: A Study of Opportunities and Challenges** (2019), arxiv 2019, Habib, Andrew, et al. [[pdf]](https://arxiv.org/pdf/1906.00307)
 - **Improving Bug Detection via Context-based Code Representation Learning and Attention-based Neural Networks** (2019), acm 2019, Yi Li, et al. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3360588)[[code]](https://github.com/OOPSLA-2019-BugDetection/OOPSLA-2019-BugDetection)
@@ -324,7 +324,7 @@ Please feel free to send a pull request to add papers and relevant content that 
 
 ## Source Code Modeling
 
-- **CONCORD: Clone-aware Contrastive Learning for Source Code** (2023), ISSTA'23, Ding, Yangruibo, et al. [[pdf]](https://arxiv.org/pdf/2306.03234)
+- **CONCORD: Clone-aware Contrastive Learning for Source Code** (2023), ISSTA'23, Ding, Yangruibo, et al. [[pdf]](https://arxiv.org/pdf/2306.03234)[[code]](https://github.com/arise-lab/concord_issta_23)
 - **TRACED: Execution-aware Pre-training for Source Code** (2023), ICSE'24, Ding, Yangruibo, et al. [[pdf]](https://arxiv.org/pdf/2306.07487)
 - **ContraBERT: Enhancing Code Pre-trained Models via Contrastive Learning** (2023), arxiv, Liu, Shangqing, et al. [[pdf]](https://arxiv.org/pdf/2301.09072)[[code]](https://github.com/shangqing-liu/ContraBERT)
 - **ERNIE-Code: Beyond English-Centric Cross-lingual Pretraining for Programming Languages** (2022), arxiv, Chai, Yekun, et al. [[pdf]](https://arxiv.org/pdf/2212.06742)
@@ -344,9 +344,9 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **Code Similarity and Location-Awareness Automatic Program Repair** (2023), Applied Sciences, Cao, Heling, et al. 
 - **The Future Can’t Help Fix The Past: Assessing Program Repair In The Wild** (2023), RG, Kabadi, Vinay, et al. [[pdf]](https://www.researchgate.net/profile/Xuan-Bach-D-Le/publication/372788577_The_Future_Can't_Help_Fix_The_Past_Assessing_Program_Repair_In_The_Wild/links/64c8d8ff862f8d2999875f1e/The-Future-Cant-Help-Fix-The-Past-Assessing-Program-Repair-In-The-Wild.pdf)
 - **Revisiting the Plastic Surgery Hypothesis via Large Language Models** (2023), arxiv, Xia, Chunqiu Steven et al. [[pdf]](https://arxiv.org/pdf/2303.10494)
-- **A Survey on Automated Program Repair Techniques** (2023), arxiv, Huang, Kai, et al. [[pdf]](https://arxiv.org/pdf/2303.18184)
+- **A Survey on Automated Program Repair Techniques** (2023), arxiv, Huang, Kai, et al. [[pdf]](https://arxiv.org/pdf/2303.18184)[[dataset]](https://github.com/KaiHuangNIPC/APR-Survey)
 - **Keep the Conversation Going: Fixing 162 out of 337 bugs for $0.42 each using ChatGPT** (2023), arxiv, Xia, C. S., and Lingming Z. [[pdf]](https://arxiv.org/pdf/2304.00385)
-- **MUFIN: Improving Neural Repair Models with Back-Translation** (2023), arxiv, Silva, André, et al. [[pdf]](https://arxiv.org/pdf/2304.02301)
+- **MUFIN: Improving Neural Repair Models with Back-Translation** (2023), arxiv, Silva, André, et al. [[pdf]](https://arxiv.org/pdf/2304.02301)[[code]](https://github.com/andre15silva/mufin)
 - **Explainable Automated Debugging via Large Language Model-driven Scientific Debugging** (2023), arxiv, Kang, Sungmin, et al. [[pdf]](https://arxiv.org/pdf/2304.02195)
 - **A study on Prompt Design, Advantages and Limitations of ChatGPT for Deep Learning Program Repair** (2023), arxiv, Cao, Jialun, et al. [[pdf]](https://arxiv.org/pdf/2304.08191)
 - **ITER: Iterative Neural Repair for Multi-Location Patches** (2023), arxiv, Ye, He, and Martin M. [[pdf]](https://arxiv.org/pdf/2304.12015)
@@ -356,15 +356,15 @@ Please feel free to send a pull request to add papers and relevant content that 
 - **InferFix: End-to-End Program Repair with LLMs over Retrieval-Augmented Prompts** (2023), arxiv, Jin, Matthew, et al. [[pdf]](https://arxiv.org/pdf/2303.07263)
 - **Automated Program Repair in the Era of Large Pre-trained Language Models** (2023), arxiv, Xia, C. S. et al. [[pdf]](https://lingming.cs.illinois.edu/publications/icse2023a.pdf)
 - **KNOD: Domain Knowledge Distilled Tree Decoder for Automated Program Repair** (2023), ICSE'23, Jiang, Nan, et al. [[pdf]](https://arxiv.org/pdf/2302.01857)
-- **Impact of Code Language Models on Automated Program Repair** (2023), ICSE'23, Jiang, Nan, et al. [[pdf]](https://arxiv.org/pdf/2302.05020)
-- **Embedding Context as Code Dependencies for Neural Program Repair** (2023), ICST'23, Nashid, Noor, et al. [[pdf]](https://people.ece.ubc.ca/amesbah/resources/papers/icst23.pdf)
+- **Impact of Code Language Models on Automated Program Repair** (2023), ICSE'23, Jiang, Nan, et al. [[pdf]](https://arxiv.org/pdf/2302.05020)[[code]](https://github.com/lin-tan/clm)
+- **Embedding Context as Code Dependencies for Neural Program Repair** (2023), ICST'23, Nashid, Noor, et al. [[pdf]](https://people.ece.ubc.ca/amesbah/resources/papers/icst23.pdf)[[code]](https://github.com/neural-repair/glance)
 - **Tare: Type-Aware Neural Program Repair** (2023), arxiv, Zhu, Qihao, et al. [[pdf]](https://xiongyingfei.github.io/papers/ICSE23a.pdf)
 - **Boosting Automated Patch Correctness Prediction via Pre-trained Language Mode** (2023), arxiv, Zhang, Quanjun, et al. [[pdf]](https://arxiv.org/pdf/2301.12453)
 - **Conversational Automated Program Repair** (2023), arxiv, Xia, Chunqiu Steven et al. [[pdf]](https://arxiv.org/pdf/2301.13246) 
 - **An Analysis of the Automatic Bug Fixing Performance of ChatGPT** (2023), arxiv, Sobania, Dominik, et al. [[pdf]](https://arxiv.org/pdf/2301.08653)
 - **Improving Automated Program Repair with Domain Adaptation** (2023), arxiv, Zirak, A., and Hemati, H. [[pdf]](https://arxiv.org/pdf/2212.11414)
 - **A Survey of Learning-based Automated Program Repair** (2023), arxiv, Zhang, Quanjun, et al.  [[pdf]](https://arxiv.org/pdf/2301.03270.pdf)
-- **TransplantFix:  Graph Differencing-based Code Transplantation for Automated Program Repair** (2023), ASE'22, Yang, Deheng, et al. [[pdf]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=8734&context=sis_research)
+- **TransplantFix:  Graph Differencing-based Code Transplantation for Automated Program Repair** (2023), ASE'22, Yang, Deheng, et al. [[pdf]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=8734&context=sis_research)[[code]](https://github.com/DehengYang/TransplantFix)
 - **Program Repair: Survey** (2022), arxiv, Gao, Xiang, et al. [[pdf]](https://arxiv.org/pdf/2211.12787.pdf)
 - **SelfAPR: Self-supervised Program Repair with Test Execution Diagnostics** (2022), ASE'22, He et al. [[pdf]](http://arxiv.org/pdf/2203.12755)
 - **Neural Program Repair using Execution-based Backpropagation** (2022), ICSE'22, He et al. [[pdf]](https://arxiv.org/abs/2105.04123)
